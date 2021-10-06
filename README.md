@@ -9,7 +9,15 @@ Prior to my graduate studies, I received a bachelor's degree in Mathematics and 
 
 ### Sample code/projects   
 
-UC Berkeley Data Science/Computer Science 200 Final Project: [Investigation of Contraceptive Use](https://github.com/JSenta/CS200_Final_Project)
+UC Berkeley Data Science/Computer Science 200 Final Project: [Investigation of Contraceptive Use](https://github.com/JSenta/CS200_Final_Project)     
+
+UC Berkeley Computer Science 282: [Recurrent Neural Networks]()     
+
+Sample actuarial reports/analyses:     
+[California State Teachers' Retirement System](https://www.calstrs.com/sites/main/files/file-attachments/2014_db_valuation_report.pdf)     
+[Los Angeles County Employees' Retirement Association](https://ttc.lacounty.gov/wp-content/uploads/2018/10/2013-Actuarial-Valuation-LACERA.pdf)
+
+
 
 
 
