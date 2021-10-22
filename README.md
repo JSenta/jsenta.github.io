@@ -10,7 +10,7 @@ Prior to my graduate studies, I received a bachelor's degree in Mathematics and 
 ### Sample code/projects   
 
 
-UC Berkeley Data Science/Computer Science 200 Final Project: [Machine Learning Investigation of Contraceptive Use: Classification/Prediction](https://github.com/JSenta/CS200_Final_Project)     
+UC Berkeley Data Science/CS 200 Final Project: [Machine Learning Investigation of Contraceptive Use: Classification/Prediction](https://github.com/JSenta/CS200_Final_Project)     
 
 UC Berkeley Computer Science 282: [Recurrent Neural Networks]()     
 
