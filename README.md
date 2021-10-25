@@ -12,13 +12,13 @@ Prior to my graduate studies, I received a bachelor's degree in Mathematics and 
 
 UC Berkeley Data Science/CS 200 Final Project: [Machine Learning Investigation of Contraceptive Use: Classification/Prediction](https://github.com/JSenta/CS200_Final_Project)     
 
-UC Berkeley Computer Science 282: [Recurrent Neural Networks]()     
+UC Berkeley Computer Science 282: [Recurrent Neural Networks](https://github.com/JSenta/CS_NNs)     
 
 Sample actuarial analyses:     
 [California State Teachers' Retirement System](https://www.calstrs.com/sites/main/files/file-attachments/2014_db_valuation_report.pdf)     
 [Los Angeles County Employees' Retirement Association](https://ttc.lacounty.gov/wp-content/uploads/2018/10/2013-Actuarial-Valuation-LACERA.pdf)
 
-Note: Most of my ongoing thesis work is embargoed pending publication. Readme files are available. 
+Note: Most of my ongoing thesis work is embargoed pending publication. 
 
 Thesis research: [Hierarchical Bayesian inference in effort-based decision-making]
 
