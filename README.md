@@ -12,7 +12,9 @@ Prior to my graduate studies, I received a bachelor's degree in Mathematics and 
 
 UC Berkeley Data Science/CS 200 Final Project: [Machine Learning Investigation of Contraceptive Use: Classification/Prediction](https://github.com/JSenta/CS200_Final_Project)     
 
-UC Berkeley Computer Science 282: [Recurrent Neural Networks](https://github.com/JSenta/CS_NNs)     
+UC Berkeley Neural Computation VS 265: [Nonlinear Neural Simulation of Error-Driven Learning](https://github.com/JSenta/CS_NNs) 
+
+UC Berkeley Computer Science 282: [Recurrent Neural Networks](https://github.com/JSenta/VS265_Neural_Computation)     
 
 Sample actuarial analyses:     
 [California State Teachers' Retirement System](https://www.calstrs.com/sites/main/files/file-attachments/2014_db_valuation_report.pdf)     
