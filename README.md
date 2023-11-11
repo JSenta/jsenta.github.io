@@ -17,7 +17,7 @@ UC Berkeley Neural Computation VS 265: [Nonlinear Neural Simulation of Error-Dri
 UC Berkeley Computer Science 282: [Recurrent Neural Networks](https://github.com/JSenta/CS_NNs)  
 
 Sample actuarial analyses:     
-[California State Teachers' Retirement System](https://www.calstrs.com/sites/main/files/file-attachments/2014_db_valuation_report.pdf)     
+[Seattle City Employees' Retirement System](https://www.seattle.gov/documents/Departments/Retirement/Publications/actuarial/ValuationReport2015.pdf)
 [Los Angeles County Employees' Retirement Association](https://ttc.lacounty.gov/wp-content/uploads/2018/10/2013-Actuarial-Valuation-LACERA.pdf)
 
 Note: Most of my ongoing thesis work is embargoed pending publication. 
