@@ -30,7 +30,4 @@ UC Berkeley Computer Science 282: [Recurrent Neural Networks](https://github.com
 Sample actuarial analyses:     
 [Seattle City Employees' Retirement System](https://www.seattle.gov/documents/Departments/Retirement/Publications/actuarial/ValuationReport2015.pdf)  
 
-[Los Angeles County Employees' Retirement Association](https://ttc.lacounty.gov/wp-content/uploads/2018/10/2013-Actuarial-Valuation-LACERA.pdf)
-
-
 
