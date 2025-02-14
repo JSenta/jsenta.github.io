@@ -32,14 +32,5 @@ Sample actuarial analyses:
 
 [Los Angeles County Employees' Retirement Association](https://ttc.lacounty.gov/wp-content/uploads/2018/10/2013-Actuarial-Valuation-LACERA.pdf)
 
-Note: Most of my ongoing thesis work is embargoed pending publication. 
-
-Thesis research: [Hierarchical Bayesian inference in effort-based decision-making]
-
-Thesis research: [Reinforcement Learning and Working Memory]
-
-Thesis research: [Contingency volatility in learning]
-
-Thesis research: [Ambiguity aversion in learning]
 
 
