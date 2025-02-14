@@ -1,10 +1,15 @@
 
 
 ### Welcome to my GitHub
+As a postdoctoral scholar at the Helen Wills Neuroscience Institute, I am currently investigating the interplay of prefrontal executive control processes with reinforcement learning systems of the brain. In particular, I am exploring the relationship of psychiatric dimensions with impairments in learning and executive control by jointly modeling the interactive process space. 
 
-As a PhD candidate in cognitive neuroscience, I study the computational processes underlying decision-making and learning. In particular, I am interested in how individual differences in psychiatric symptomatology relate to differences/abnormalities in these cognitive processes. I primarily make use of choice and classification models, reinforcement learning models, drift diffusion process models, and recurrent neural networks in my research. I use hierarchical Bayesian fitting methods to assess behavioral models, and investigate neural correlates of behavioral/computational processes.
+During my Ph.D. work in Cognitive Neuroscience (at UC Berkeley), I focused on the computational processes underlying decision-making and learning. In particular, I investigated effortful decision-making and subjective value paradigms, decision-making under second-order uncertainty and inference across missing information, and learning under paradigms of contingency volatility. I employed a range of computational modeling approaches in my investigations, including hierarchical Bayesian inference, machine learning, and dimensionality reduction modeling.
 
-Prior to my graduate studies, I received a bachelor's degree in Mathematics and obtained my Fellowship in the Society of Actuaries, working as a consulting actuary for government-sponsored pension plans, and as a manager/consultant for private equity mergers and acquisitions. 
+Prior to my graduate studies, I received a bachelor's degree in Mathematics and obtained my Fellowship in the Society of Actuaries, working as a consulting actuary for government-sponsored pension plans and as a manager/consultant for private equity mergers and acquisitions. 
+
+### Latest publication preprints   
+
+[Latent subdimensions of anxiety and depression differentially influence exertion of effort in pursuit of reward versus avoidance of threat](https://osf.io/preprints/psyarxiv/nav4p_v1)
 
 
 ### Sample code/projects   
