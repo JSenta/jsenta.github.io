@@ -9,10 +9,12 @@ Prior to my graduate studies, I received a bachelor's degree in Mathematics and 
 
 ### Latest publication preprints   
 
+[Dual process impairments in learning and working memory underlie learning deficits in physiological anxiety](https://www.biorxiv.org/content/10.1101/2025.02.14.638024v1)
+
 [Latent subdimensions of anxiety and depression differentially influence exertion of effort in pursuit of reward versus avoidance of threat](https://osf.io/preprints/psyarxiv/nav4p_v1)
 
 
-### Introductory dissertation chapters
+### Dissertation excerpts
 
 [Towards computational phenotypes of internalizing psychopathology: An investigation of decision-making and learning algorithms](https://osf.io/q3cbu)
 
